@@ -4,7 +4,8 @@ I have prepared this project as a "fast copy" of my project in django (python2.7
 - heroku postgres app 
 - heroku Data for Redis
 
-It is possible to ommit heroku paid apps. I have to install them during build and start extra process for free.
+It is possible to ommit heroku paid apps by installing them during build and start extra process for free.
+Of course postgres data won't be kept, but using dump before updating image and restore after, would allow it to be free.
 
 # Steps to reproduce
 1. Clone project
