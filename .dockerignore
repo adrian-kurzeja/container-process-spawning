@@ -1,0 +1,7 @@
+*.pyc
+.env
+.docker-env
+db.sqlite3*
+server_files/postman.json
+runtime.txt
+.gitlab-ci.yml
