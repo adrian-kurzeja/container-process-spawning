@@ -1,0 +1,20 @@
+10:37:50 Registering birth of worker 12e7e7034e24.9
+10:37:50 RQ worker u'rq:worker:12e7e7034e24.9' started, version 0.12.0
+10:37:50 *** Listening on default...
+10:37:50 Sent heartbeat to prevent worker timeout. Next one should arrive within 420 seconds.
+10:37:50 Cleaning registries for queue: default
+10:37:50 *** Listening on default...
+10:37:50 Sent heartbeat to prevent worker timeout. Next one should arrive within 420 seconds.
+10:38:00 Got signal SIGTERM
+10:38:00 Warm shut down requested
+10:38:00 Registering death
+10:38:37 Registering birth of worker f3e3df715d5e.9
+10:38:37 RQ worker u'rq:worker:f3e3df715d5e.9' started, version 0.12.0
+10:38:37 *** Listening on default...
+10:38:37 Sent heartbeat to prevent worker timeout. Next one should arrive within 420 seconds.
+10:38:37 Cleaning registries for queue: default
+10:38:37 *** Listening on default...
+10:38:37 Sent heartbeat to prevent worker timeout. Next one should arrive within 420 seconds.
+10:38:41 Got signal SIGTERM
+10:38:41 Warm shut down requested
+10:38:41 Registering death

@@ -1,0 +1,36 @@
+2023-08-10 10:37:50,474 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:37:50,474 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:37:50,474 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:37:50,557 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:37:50,557 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:37:50,557 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+recieved message
+2023-08-10 10:37:50,566 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:37:50,566 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:37:50,566 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:37:50,567 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:37:50,567 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:37:50,567 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:38:00,529 - INFO - worker - Shutdown signal received while idle, terminating immediately
+2023-08-10 10:38:00,551 - INFO - worker - Shutdown signal received while idle, terminating immediately
+2023-08-10 10:38:00,573 - INFO - worker - Shutdown signal received while idle, terminating immediately
+<channels.message.Message object at 0x7fbb80b76790>
+2023-08-10 10:38:00,596 - INFO - worker - Shutdown signal received while idle, terminating immediately
+2023-08-10 10:38:37,307 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:38:37,307 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:38:37,307 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:38:37,324 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:38:37,324 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:38:37,324 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:38:37,328 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:38:37,329 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:38:37,329 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+recieved message
+2023-08-10 10:38:37,356 - INFO - runworker - Using single-threaded worker.
+2023-08-10 10:38:37,356 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2023-08-10 10:38:37,356 - INFO - worker - Listening on channels http.request, testing, websocket.connect, websocket.disconnect, websocket.receive
+2023-08-10 10:38:40,984 - INFO - worker - Shutdown signal received while idle, terminating immediately
+2023-08-10 10:38:41,008 - INFO - worker - Shutdown signal received while idle, terminating immediately
+2023-08-10 10:38:41,032 - INFO - worker - Shutdown signal received while idle, terminating immediately
+<channels.message.Message object at 0x7fdebc37d6d0>
+2023-08-10 10:38:41,054 - INFO - worker - Shutdown signal received while idle, terminating immediately

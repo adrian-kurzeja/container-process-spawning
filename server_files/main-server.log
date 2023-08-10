@@ -1,0 +1,72 @@
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+2023-08-10 10:37:50,396 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne3.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:37:50,396 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:37:50,396 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:37:50,396 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:37:50,420 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:37:50,421 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:37:50,421 INFO     Listening on endpoint unix:/run/daphne/daphne3.sock
+2023-08-10 10:37:50,520 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne2.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:37:50,521 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:37:50,521 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:37:50,521 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:37:50,522 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne1.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:37:50,523 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:37:50,523 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:37:50,523 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:37:50,529 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:37:50,529 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:37:50,529 INFO     Listening on endpoint unix:/run/daphne/daphne2.sock
+2023-08-10 10:37:50,529 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:37:50,530 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:37:50,530 INFO     Listening on endpoint unix:/run/daphne/daphne1.sock
+2023-08-10 10:37:50,541 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne0.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:37:50,542 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:37:50,542 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:37:50,542 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:37:50,548 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:37:50,548 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:37:50,548 INFO     Listening on endpoint unix:/run/daphne/daphne0.sock
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+/usr/local/lib/python2.7/site-packages/autobahn/wamp/auth.py:43: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+2023-08-10 10:38:37,262 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne1.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:38:37,263 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:38:37,264 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:38:37,264 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:38:37,291 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne2.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:38:37,293 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:38:37,293 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:38:37,293 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:38:37,299 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:38:37,300 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:38:37,300 INFO     Listening on endpoint unix:/run/daphne/daphne1.sock
+2023-08-10 10:38:37,316 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne0.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:38:37,317 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:38:37,317 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:38:37,317 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:38:37,320 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:38:37,320 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:38:37,321 INFO     Listening on endpoint unix:/run/daphne/daphne2.sock
+2023-08-10 10:38:37,323 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:38:37,323 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:38:37,323 INFO     Listening on endpoint unix:/run/daphne/daphne0.sock
+2023-08-10 10:38:37,349 INFO     Starting server at fd:fileno=0, tcp:port=8000:interface=0.0.0.0, unix:/run/daphne/daphne3.sock, channel layer main.asgi:channel_layer.
+2023-08-10 10:38:37,349 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2023-08-10 10:38:37,349 INFO     Using busy-loop synchronous mode on channel layer
+2023-08-10 10:38:37,349 INFO     Listening on endpoint fd:fileno=0
+2023-08-10 10:38:37,355 INFO     Listening on endpoint tcp:port=8000:interface=0.0.0.0
+2023-08-10 10:38:37,355 ERROR    Couldn't listen on 0.0.0.0:8000: [Errno 98] Address in use.
+2023-08-10 10:38:37,355 INFO     Listening on endpoint unix:/run/daphne/daphne3.sock

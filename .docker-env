@@ -1,0 +1,16 @@
+#POSTGRES
+POSTGRES_PASSWORD=12341234
+POSTGRES_USER=new_db
+POSTGRES_DB=new_db
+
+#APP
+APP_ENV=STAGING
+APP_URL=https://docker-version.com
+SECRET_KEY=asdfasdfasdfasdfasdfasdfasdfasdfaasdf
+APP_HASH=random_hash
+
+#APP DATABASES
+REDIS_URL=redis://h:REDIS@redis:6379/0
+DATABASE_URL=postgres://new_db:12341234@db/new_db
+
+PORT=8000
