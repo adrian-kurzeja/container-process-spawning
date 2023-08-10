@@ -10,10 +10,19 @@ It is possible to ommit heroku paid apps. I have to install them during build an
 1. Clone project
 2. Add heroku Postgres app
 3. Add heroku Data for Redis
-4. Add .docker-env file variables to heroku project
+4. Add `.docker-env` file variables to heroku project
 5. Build locally and push:
+```
 heroku container:push web --app=yourApp
+```
 6. Release:
-heroku container:release web --app=yourApp 
+```
+heroku container:release web --app=yourApp
+```
+7. Enter dyno
+```
+heroku ps:exec --dyno=web.1 --app=yourApp
+```
+8. Use `top` command to check processes
 
 
