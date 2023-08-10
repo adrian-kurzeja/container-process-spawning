@@ -27,3 +27,19 @@ heroku ps:exec --dyno=web.1 --app=yourApp
 8. Use `top` command to check processes
 
 
+# Processes
+You can add any proces you want inside file:
+./server_files/daphne.supervisor.conf
+
+Example of new process
+```
+[program:worker_new_1]
+command=python manage.py runworker
+directory=/code
+autostart=true
+autorestart=true
+stdout_logfile = /code/server_files/worker.log
+logfile_maxbytes=15
+logfile_backups=2
+redirect_stderr=true
+```
