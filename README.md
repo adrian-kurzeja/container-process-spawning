@@ -1,5 +1,5 @@
 # Requirements
-I have build this project on django and right now it requires two heroku apps:
+I have prepared this project as a "fast copy" of my project in django (python2.7) and right now it requires two heroku apps:
 
 - heroku postgres app 
 - heroku Data for Redis
